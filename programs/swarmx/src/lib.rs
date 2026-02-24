@@ -6,7 +6,7 @@ pub mod errors;
 
 use instructions::*;
 
-declare_id!("11111111111111111111111111111111"); // placeholder, update after deploy
+declare_id!("Duf2CX5ZGUgLddKffADWc6RygEEYawmqZxzpKGHzfMVE");
 
 #[program]
 pub mod swarmx {
